@@ -1,5 +1,8 @@
 _repo: The-Genetic-and-the-operative-evidence-relating-to-secondary-sexual-characters_57460
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57460-h/images/cover.jpg
 creator:
   author:
     agent_name: Morgan, Thomas Hunt
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34763
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hunt_Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57460#The-Genetic-and-the-operative-evidence-relating-to-secondary-sexual-characters
 gutenberg_issued: '2018-07-07'
 gutenberg_type: Text
 identifiers:
